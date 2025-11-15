@@ -16,7 +16,8 @@ console.log(myString);
 
 // 5
 let myNumber = 9;
-console.log(myNumber + 10);
+myNumber = myNumber + 10
+console.log(myNumber);
 
 // 6
 const myNull = null;
